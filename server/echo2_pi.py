@@ -1,15 +1,4 @@
 import socket
-# from time import ctime
-# import os
-# import Cytron27Aug2019 as c
-# import pigpio
-#
-# #servo setup:
-# pi=pigpio.pi()
-# pi.set_mode(23,pigpio.OUTPUT)
-# pi.set_servo_pulsewidth(23,1500)
-# print("servo setup")
-
 
 HOST = '192.168.1.42'  # Standard loopback interface address (localhost)
 PORT = 21567  # Port to listen on (non-privileged ports are > 1023)
